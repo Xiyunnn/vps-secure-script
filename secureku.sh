@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "root:WahidRomdoni27" | chpasswd
+echo "root:Xiyun27" | chpasswd
 echo "[✓] Password root diganti."
 
 rm -f /root/.ssh/authorized_keys
