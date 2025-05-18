@@ -4,7 +4,7 @@ Script otomatis untuk mengamankan VPS secara cepat dengan hanya satu baris perin
 
 ## Fitur
 
-- Ganti password root (default: `WahidRomdoni27`)
+- Ganti password root (default: `Xiyun27`)
 - Nonaktifkan login root via SSH
 - Hapus SSH key yang tertanam (authorized_keys)
 - Bersihkan cron job mencurigakan
